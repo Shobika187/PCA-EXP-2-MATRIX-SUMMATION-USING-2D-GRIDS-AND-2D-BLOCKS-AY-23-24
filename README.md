@@ -281,7 +281,8 @@ int main(int argc, char **argv)
 ## OUTPUT:
 ### FLOAT
 <img width="572" alt="float-output" src="https://github.com/Shobika187/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/94508142/28a46ef5-3d62-4686-8cd3-d03fc391fda9">
-### INTERGER
+
+### INTEGER
 <img width="572" alt="int-output" src="https://github.com/Shobika187/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/94508142/eacf9e26-b1d7-4cc0-92fb-d6e07e35d17d">
 
 
